@@ -1,0 +1,16 @@
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.AssemblyReference.cache
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.CoreCompileInputs.cache
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.exe.config
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.exe
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.pdb
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.exe
+D:\23.11.5600\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.pdb
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.exe.config
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.exe
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\calculatorconsoleapp.pdb
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.AssemblyReference.cache
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.csproj.CoreCompileInputs.cache
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.exe
+D:\23.11.5738\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\calculatorconsoleapp.pdb
